@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is a curated collection of mini-apps designed to operate as serverless cloud functions. As a freelance developer building various MVPs—ranging from admin panels and CRM systems to interactive forms—I frequently reused certain pieces of code across projects. This collection emerged from the realization that many of these reusable templates could be streamlined into standalone services, thus eliminating the need for repeated copying and pasting.
+This repository is a curated collection of mini-apps designed to operate as serverless cloud functions. As a freelance developer building various MVPs _ranging from admin panels and CRM systems to interactive forms_ I frequently reused certain pieces of code across projects. This collection emerged from the realization that many of these reusable templates could be streamlined into standalone services, thus eliminating the need for repeated copying and pasting.
 
 These mini-apps are primarily designed as HTTP-triggered serverless functions, making them ideal for integration into a variety of projects without the complexities of traditional server management. The use of cloud functions, such as Google Cloud Functions, simplifies deployment and service connectivity thanks to their native HTTP trigger support.
 
