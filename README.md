@@ -35,6 +35,10 @@ To use any of the mini-apps in this repository, refer to the specific README.md 
    - **Description:** Avoid CORS issues when accessing resources from different domains in development.
    - [More Details](https://github.com/guinnod/cors-proxy)
 
+5. **Serverless GPT-API**
+   - **Description:**  Serverless app to interact with the OpenAI GPT API.
+   - [More Details](https://github.com/nurhatmurathan/function-gpt-api)
+
 ## Contributing
 
 Contributions are welcome! If you're interested in adding a new function or improving existing ones, please ensure your submissions meet the following criteria:
